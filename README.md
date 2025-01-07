@@ -1,9 +1,8 @@
 # HOSPITAL-MANAGEMENT-SYSTEM
-Title: HOSPITAL MANAGEMENT SYSTEM
-
-Description: Hospital Management System Developed a C++ application for a comprehensive Hospital Management System, featuring user authentication, patient registration, pharmacy management, appointment scheduling, patient management, and billing functionalities. Implemented a command-line interface to streamline administrative and healthcare tasks, ensuring efficient and secure data handling.
-
-Theme: jekyll-theme-cayman
+- Title: HOSPITAL MANAGEMENT SYSTEM
+- Description: Hospital Management System Developed a C++ application for a comprehensive Hospital Management System, featuring user authentication, patient registration, pharmacy management, appointment 
+  scheduling, patient management, and billing functionalities. Implemented a command-line interface to streamline administrative and healthcare tasks, ensuring efficient and secure data handling.
+- Theme: jekyll-theme-cayman
 
 
 ## Portfolio
@@ -20,10 +19,10 @@ Here's a glimpse into my journey:
 
 OVERVIEW: The Hospital Management System is designed to address key challenges in the healthcare industry, including patient data management, appointment scheduling, billing, and resource allocation. By implementing a centralized digital platform, it streamlines operations, enhances patient care, and ensures efficient communication across departments. This solution aims to create a seamless, efficient, and patient-centered healthcare environment.
 
-#Technical Stack: 
-Languages: C++
-Algorithms:Sorting and searching,KMP,linear search,priority queue,Dijkstra's Algorithm.
-Tools: Design And Analysis of Algorithm
+# Technical Stack: 
+- Languages: C++
+- Algorithms:Sorting and searching,KMP,linear search,priority queue,Dijkstra's Algorithm.
+- Tools: Design And Analysis of Algorithm
 
 ## Impact:
 1. Improved Efficiency:
