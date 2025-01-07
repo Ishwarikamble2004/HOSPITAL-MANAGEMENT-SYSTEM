@@ -60,7 +60,7 @@ By implementing such a system, hospitals can achieve higher efficiency, better p
 
   ## 🌐 Find Me Online
 
-- [GitHub](https://github.com/Ishwarikamble2004/portfolioo.github.io)
+- [GitHub](https://ishwarikamble2004.github.io/HOSPITAL-MANAGEMENT-SYSTEM/)
 - [LinkedIn](https://www.linkedin.com/in/ishwari-kamble-3196122a8)
 
 ## Portfolio Highlights
