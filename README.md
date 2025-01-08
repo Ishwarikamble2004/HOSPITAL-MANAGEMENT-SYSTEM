@@ -65,7 +65,7 @@ By implementing such a system, hospitals can achieve higher efficiency, better p
 ### 📋 Details:
 
 - Course Name: Algorithms Lab 
-- Course Code: 24ECSC205  
+- Course Code: 24ECSP205  
 - Name: Ishwari Kamble 
 - SRN: 02FE23BCS126  
 - Course Instructor: Prof.Shankar Biradar   
